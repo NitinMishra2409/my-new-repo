@@ -1,1 +1,2 @@
 maja m 
+git reset will be deleted 
